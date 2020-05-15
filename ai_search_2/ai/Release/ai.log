@@ -1,0 +1,10 @@
+﻿  map.cpp
+  main.cpp
+c:\environment\code\projects\link\ai\ai_search_2\ai\main.cpp(14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\environment\code\projects\link\ai\ai_search_2\ai\main.cpp(16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  90 of 93 functions (96.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ai.vcxproj -> C:\environment\code\projects\link\ai\ai_search_2\Release\ai.exe
